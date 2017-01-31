@@ -1,0 +1,45 @@
+1.
+Zaprojektowaæ klasê która dla zestawu 
+punktów na 
+p³aszczyŸnie znajdzie
+a) dwa najblisze
+b) dwa najbardziej odleg³e
+
+Math.pow(3, 2) = 9
+Math.sqrt(9) = 3
+
+2.
+Zaprojektowaæ klasê która dla zestawu figur 
+geometrycznych wyliczy sumê ich pól
+Figury mog¹ mieæ kszta³t:
+kwadrat
+ko³o
+prostok¹t
+trójk¹t
+
+Math.PI
+
+3.
+Zaimplementowaæ kolejke parametryzowana kolejke Filo
+First in, last out
+dodaj
+pobierz
+
+4.
+Zaproponowaæ sposób na sortowanie sekwencji
+"Imiê Nazwisko Wiek" z uwzglêdnieniem wieku, nazwiska, imienia
+String.split(" ");
+5.
+Zaimplementowac parametryzowany cache który bêdzie czyœci³ 
+wartoœci które nie zosta³y odczytane w przeciagu 10 sekund
+
+watki
+
+6.
+Zbudowac aplikacje sklep.
+W sklepie mozemy obejrzec stan magazynu
+Ustalic ceny towaru
+Dokonac sprzedarzy
+Przyjac towar
+Stan magazynu musi byc zachowany miêdzy wykonaniami programu
+  
